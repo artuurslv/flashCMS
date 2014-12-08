@@ -1,0 +1,146 @@
+@media (max-width: 1575px) {
+		.imgHolder{
+		margin: 4px;
+	    padding-left:3px;
+	    padding-right:3px;
+	}
+	}
+@media (max-width: 1450px) {
+
+	.imgHolder{
+		margin: 8px;
+	    padding-left:5px;
+	    padding-right:5px;
+	}
+	.widthWrap{
+		margin-left:5%;
+	}
+	.widthWrap{
+		margin-left:10%;
+	}
+	.widthWrapRight{
+		margin-right:10%;
+	}
+}
+@media (max-width: 1334px) {
+		.imgHolder{
+		margin: 4px;
+	    padding-left:3px;
+	    padding-right:3px;
+	}
+	}
+@media (max-width: 1300px) {
+	.headWidth{
+		margin-left:5%;
+	}
+	.widthWrap{
+		margin-left:7%;
+	}
+	.widthWrapRight{
+		margin-right:7%;
+	}
+}
+@media (max-width: 1200px) {
+	.widthWrap{
+		margin-left:0%;
+	}
+	.widthWrap{
+		margin-left:5%;
+	}
+	.widthWrapRight{
+		margin-right:5%;
+	}
+}
+@media (max-width: 1131px) {
+	#imageList{
+		padding-left: 17%;
+	}
+	.headerTitle{
+		font-size:30px;
+	}
+	.reg_menu UL LI{
+		margin-top:43px;
+		font-size: 17px;
+	}
+}
+@media (max-width: 1051px) {
+	.reg_menu UL LI{
+		margin-top:45px;
+		font-size: 16px;
+		margin-left:3px;
+	}
+}
+@media(max-width: 1000px){
+	.reg_menu{
+		display:none;
+	}
+	#ait_resp_menu{
+		display:block;
+		float: right;
+		border-radius: 5px 5px 0 0;
+		padding-top: 5px;
+		margin-top: 31px;
+		position: relative;
+		width: 160px;
+		z-index: 9;
+	}
+	#ait_resp_menu UL{
+		margin-left: -40px;
+		position: absolute;
+	}
+	#ait_resp_menu li{
+        background: none repeat scroll 0 0 lightblue;
+	    cursor: pointer;
+	    float: none;
+	    font-size: 17px;
+	    margin:0;
+	    height: 30px;
+	    padding: 9px 8px 0;
+	}
+	#ait_resp_menu li:hover{
+		color:#8AABB0;
+		background: #fff;
+		text-decoration:unerline;
+	}
+	.header ul{
+		display:none;
+	}	
+}
+@media (max-width: 916px) {
+	#ait_resp_menu{
+		margin-top:0px;
+	}	
+}
+@media (max-width: 770px) {
+	#footer .widthWrap{
+		margin-left:15%;
+	}
+	#ait_resp_menu{
+		margin-top:5px;
+		margin-right:0px;
+		width:100%;
+	}
+	.content{
+		margin-top:50px;
+	}
+	#ait_resp_menu UL{
+		width: 100%;
+	}
+}
+@media (max-width: 727px) {
+	.rightSide{
+		display:none;
+	}
+	.leftSide{
+		width:94%;
+	}
+	
+}
+@media (max-width: 465px) {
+	.headerTitle{
+		display:none;
+	}
+	.logo{
+		margin-left: 30%;
+	}
+}
