@@ -1,0 +1,40 @@
+/* Function styles */
+.ait_menu{
+	display:none;
+	width:auto;
+}
+.ait_subMen{
+	display:none;
+}
+.ait_center{
+ 	margin: auto; 
+ 	text-align: center; 
+ }
+#ait_blanket {
+	background-color:#000;
+	opacity: 0.65;
+	filter:alpha(opacity=65);
+	-moz-opacity: 0.65; 
+	-webkit-opacity: 0.65;
+	position:fixed;
+	z-index: 9002;
+	top:0px;
+	left:0px;
+	min-width:100%;
+	width:auto;
+	min-height:100%;
+	height:auto;
+}
+#ait_loader_txt{
+	position:fixed;
+	z-index: 9003;
+	top: 48%;
+	left: 47%;
+	color: grey;
+}
+.ait_loaderImg{
+	position:fixed;
+	z-index: 9003;
+	top: 38%;
+	left: 50%;
+}
